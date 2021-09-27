@@ -1,0 +1,20 @@
+* {
+    border: none !important;
+    padding: none !important;
+    margin: none !important; 
+    box-sizing: border-box !important;
+}
+
+body {
+    font-family: 'ubuntu';
+    background-color: #f0fff0;
+}
+
+
+
+@font-face {
+    src: url('../../public/fonts/ubuntu.ttf');
+    font-family: 'ubuntu';
+};
+
+
